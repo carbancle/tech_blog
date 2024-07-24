@@ -1,6 +1,7 @@
 package tech_blog.model;
 
 public class Board {
+	private int id;
 	private String title;
 	private String content;
 	private String userId;
@@ -8,11 +9,20 @@ public class Board {
 	public Board() {
 	}
 
-	public Board(String title, String content, String userId) {
+	public Board(int id, String title, String content, String userId) {
 		super();
+		this.id = id;
 		this.title = title;
 		this.content = content;
 		this.userId = userId;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
 	}
 
 	public String getTitle() {
@@ -37,6 +47,6 @@ public class Board {
 
 	public void setUserId(String userId) {
 		this.userId = userId;
-	};
+	}
 
 }
