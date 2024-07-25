@@ -33,16 +33,18 @@
 }
 
 .search-input {
-	padding: 8px;
+	width: auto !important;
+	padding: 8px !important;
 	border: 1px solid #ddd;
-	border-radius: 5px 0 0 5px;
+	border-radius: 5px 0 0 5px !important;
 	outline: none;
 }
 
 .search-button {
+	width: 80px !important;
 	padding: 8px 16px;
 	border: none;
-	border-radius: 0 5px 5px 0;
+	border-radius: 0 5px 5px 0 !important;
 	background-color: #007bff;
 	color: white;
 	cursor: pointer;

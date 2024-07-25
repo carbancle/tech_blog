@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Register</title>
+    <title>회원가입</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -14,7 +14,7 @@
             display: flex;
             /* justify-content: center; */
             align-items: center;
-            height: 100vh;
+            /* height: 100vh; */
             flex-direction: column;
         }
         .logo {

@@ -4,7 +4,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>User Info</title>
+    <title>회원정보</title>
     <style>
         body {
             font-family: Arial, sans-serif;

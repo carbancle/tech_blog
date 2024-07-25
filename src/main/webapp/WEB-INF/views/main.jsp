@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Main Page</title>
+<title>Velog</title>
 <style>
     body {
         font-family: Arial, sans-serif;

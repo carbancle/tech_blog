@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>게시글 상세</title>
+<title>상세페이지</title>
 <style>
 body {
 	font-family: Arial, sans-serif;
